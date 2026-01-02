@@ -35,7 +35,7 @@ def generatListWords(colChoice):
         chosenWords.append(WordList.wordList[indWord])
     return chosenWords
 
-API_TOKEN = '7501771237:AAF9qQipemYKqHMlCJmAWnMDcOWjsf0xLQ4'
+API_TOKEN = ''
 
 bot = telebot.TeleBot(API_TOKEN)
 
